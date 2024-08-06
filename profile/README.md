@@ -13,4 +13,4 @@
 |백엔드|백엔드|
 |:-:|:-:|
 |![](https://avatars.githubusercontent.com/u/70999462?v=4&size=110)|![](https://avatars.githubusercontent.com/u/45879491?v=4&size=110)|
-|[조태현](https://github.com/whxogus215)|[이승용](https://github.com/kokodak)|
+|[조태현](https://github.com/whxogus215)|[이승용](https://github.com/kokodak)|
